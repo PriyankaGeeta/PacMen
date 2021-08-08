@@ -2,6 +2,8 @@
 
 ## This code is about creating a PacMen game.
 
+<img src="PacMan1" width="500" height="333">
+
 Here's how the game is played:
 
 When you click the "Add PacMan" button, a new pacman should appear at a random position on the screen.
