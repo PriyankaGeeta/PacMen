@@ -11,10 +11,10 @@ When a given pacman hits the edge of the screen, it should change position to st
 ## How to Run:
 Download the ZIP file by clicking the CODE from the Github repository https://github.com/PriyankaGeeta/PacMen. Double click on the Index.html file and run that in your browser.
 
-##Roadmap of future improvements:
+## Roadmap of future improvements:
 I am planning to add few objects randomly placed on the screen and when the PacMen hits the object, they should change the position.
 
-##License information: 
+## License information: 
 PriyankaGeeta/PacMen is licensed under the
 
 MIT License
