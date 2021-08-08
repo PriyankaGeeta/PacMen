@@ -1,5 +1,6 @@
 # PacMen
-##This code is about creating a PacMen game.
+
+## This code is about creating a PacMen game.
 
 Here's how the game is played:
 
@@ -7,11 +8,14 @@ When you click the "Add PacMan" button, a new pacman should appear at a random p
 When you click the "Start Game" button, the pacman or pacmen created should start moving at random velocity on the screen.
 When a given pacman hits the edge of the screen, it should change position to stay within the frame of the web page.
 
-##How to Run: Download the ZIP file by clicking the CODE from the Github repository https://github.com/PriyankaGeeta/PacMen. Double click on the Index.html file and run that in your browser.
+## How to Run:
+Download the ZIP file by clicking the CODE from the Github repository https://github.com/PriyankaGeeta/PacMen. Double click on the Index.html file and run that in your browser.
 
-##Roadmap of future improvements: I am planning to add few objects randomly placed on the screen and when the PacMen hits the object, they should change the position.
+##Roadmap of future improvements:
+I am planning to add few objects randomly placed on the screen and when the PacMen hits the object, they should change the position.
 
-##License information: PriyankaGeeta/PacMen is licensed under the
+##License information: 
+PriyankaGeeta/PacMen is licensed under the
 
 MIT License
 
