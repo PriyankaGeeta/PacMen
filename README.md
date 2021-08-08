@@ -2,7 +2,7 @@
 
 ## This code is about creating a PacMen game.
 
-<img src= "PacMan1.png" width='300' height='333' />
+<img src= "PacMan1.png" width='300' />
 
 Here's how the game is played:
 
